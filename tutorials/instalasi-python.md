@@ -27,8 +27,8 @@ Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan librar
 1. Buka browser, kunjungi [http://www.python.org/downloads/windows/](http://www.python.org/downloads/windows/)
 2. ATAU, klik direct link [https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi](https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi)
 3. Buka (klik 2x) file installer python yang baru saja di download
-4. Ikuti langkah instalasi sampai selesai
-
+4. Ikuti langkah instalasi sampai selesai (untuk versi tertentu diaktifkan dengan menambahkan 'C:\Users\%PC_Username%\AppData\Local\Programs\Python\Python%Version%' di 'System Properties --> Advanced --> Environtment Variables on User Variables Path dan System vareiables Path'
+ 
 ### Mac OS
 1. Buka browser, kunjungi [http://www.python.org/download/mac/](http://www.python.org/download/mac/)
 2. Download versi terbaru Python untuk Macintosh
